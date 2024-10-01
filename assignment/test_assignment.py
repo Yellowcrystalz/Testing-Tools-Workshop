@@ -23,4 +23,4 @@ from bank_api import app
 # Write code here
 
 # To run:
-# pytest -v test_assignment
+# pytest -v test_assignment.py
